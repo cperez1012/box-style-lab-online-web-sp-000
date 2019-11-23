@@ -53,6 +53,7 @@ h4.indifferent {
 h4.dubious {
   background: linear-gradient(to right, #dd4444, #FFF)
 }
+
 .column {
   width: 30%;
   display: inline-block;
